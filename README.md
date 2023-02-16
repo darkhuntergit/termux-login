@@ -1,13 +1,12 @@
 # TERMUX LOGIN SCRIPT (2.0)
 ##### Secure your Termux App with Password
 
-<img src="https://i.ibb.co/1G42FbC/termux-login.png"> 
 
 ## [+] Installation & Usage
 ```
 apt update
 apt install git -y
-git clone https://github.com/htr-tech/termux-login.git
+git clone https://github.com/darkhuntergit/termux-login.git
 cd termux-login
 chmod +x *
 sh install.sh
@@ -16,7 +15,7 @@ exit
     
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/termux-login.git && cd termux-login && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/darkhuntergit/termux-login.git && cd termux-login && chmod +x * && sh install.sh
 ```
 ### Now go to Termux App & Set Username,Password AND Recovery Key
 
@@ -33,8 +32,8 @@ apt update && apt install git -y && git clone https://github.com/htr-tech/termux
     
     https://github.com/Udoy2/ 🤩
     https://github.com/TechnicalMujeeb/ 🤩
+    https://github.com/htr-tech/ ⚡
     
 ## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
+#### Instagram : @beingv2.0
+#### Github : darkhuntergit 
